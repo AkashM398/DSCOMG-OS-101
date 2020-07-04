@@ -22,6 +22,7 @@
 
 **Google Summer of Code** - [Partcipate here](https://summerofcode.withgoogle.com/)\
 **Google Season of Docs** - [Participate here](https://developers.google.com/season-of-docs)\
+**Tezos Fellowship** - [Participate here](https://tezos.com/)\
 **MLH Fellowship** - [Participate here](https://fellowship.mlh.io/)\
 **Hacktoberfest** - [Participate here](https://hacktoberfest.digitalocean.com/)\
 **GirlScript Summer of Code** - [Participate here](https://www.gssoc.tech/)\
